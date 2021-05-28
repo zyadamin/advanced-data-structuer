@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1610541120 source:d:\contest\ass2\linkedlist.cpp
+
+1610741176 source:c:\users\zezoa\desktop\ass2\main.cpp
+	<iostream>
+
+1610740203 c:\users\zezoa\desktop\ass2\linkedlist.h
+	<iostream>
+
+1610740205 c:\users\zezoa\desktop\ass2\suffixtrie.h
+
+1610655998 source:c:\users\zezoa\desktop\ass2\ suffixtrie.cpp
+

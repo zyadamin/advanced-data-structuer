@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1609618334 source:c:\users\zezoa\desktop\btree\tree.cpp
+
+1610133220 source:c:\users\zezoa\desktop\btree\main.cpp
+	<iostream>
+	"BTree.h"
+
+1610132422 c:\users\zezoa\desktop\btree\tree.h
+	<iostream>
+
+1610132677 source:c:\users\zezoa\desktop\btree\btree.cpp
+
+1610133287 c:\users\zezoa\desktop\btree\btree.h
+	<iostream>
+
+1610132677 source:c:\users\zezoa\desktop\doc\advanced data structuer\assingments\btree\btree.cpp
+
+1610991478 source:c:\users\zezoa\desktop\doc\advanced data structuer\assingments\btree\main.cpp
+	<iostream>
+	"BTree.h"
+
+1610133287 c:\users\zezoa\desktop\doc\advanced data structuer\assingments\btree\btree.h
+	<iostream>
+
